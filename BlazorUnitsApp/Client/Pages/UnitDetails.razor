@@ -1,0 +1,53 @@
+﻿@page "/unit/{Id:int}"
+@using System.Net
+@using BlazorUnitsApp.Client.Services.UnitService
+@inject IUnitService UnitService
+<h3>UnitDetails</h3>
+
+
+@if (unit == null)
+{
+    <span>Loading...</span>
+}
+else
+{
+    <div class="media">
+        <div class="media-body">
+            <h2 class="mb-0">@unit.Name</h2>
+            <p>@unit.Ip_Address</p>
+            <h4>
+                @unit.Latitude
+            </h4>
+            <h4>
+                @unit.Longitude
+            </h4>
+        </div>
+    </div>
+
+}
+@code {
+    private Unit? unit = null;
+    private string message = string.Empty;
+
+    [Parameter]
+    public int Id { get; set; }
+
+    protected override async Task OnParametersSetAsync()
+    {
+        message = "Loading..";
+
+        var result = await UnitService.GetUnit(Id);
+
+        if (!result.Success)
+        {
+            message = result.Message;
+        }
+
+        else
+        {
+            unit = result.Data;
+        }
+
+    }
+
+}

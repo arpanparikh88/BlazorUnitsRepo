@@ -1,0 +1,25 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\18032\\source\\PersonalRepos\\BlazorUnitsApp\\BlazingPizza.ComponentsLibrary\\BlazingPizza.ComponentsLibrary.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\18032\\source\\PersonalRepos\\BlazorUnitsApp\\BlazingPizza.ComponentsLibrary\\BlazingPizza.ComponentsLibrary.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\18032\\source\\PersonalRepos\\BlazorUnitsApp\\BlazingPizza.ComponentsLibrary\\BlazingPizza.ComponentsLibrary.csproj",
+        "projectPath": "C:\\Users\\18032\\source\\PersonalRepos\\BlazorUnitsApp\\BlazingPizza.ComponentsLibrary\\BlazingPizza.ComponentsLibrary.csproj",
+        "packagesPath": "C:\\Users\\18032\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\18032\\source\\PersonalRepos\\BlazorUnitsApp\\BlazingPizza.ComponentsLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\18032\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        }
+      }
+    }
+  }
+}

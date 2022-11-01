@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "ytI55zAal6+PsVOlTdu3lNMUHs0pTxSpsilxh12CgRSH4kkfKOCBhTbGbr+hIw4pzGkOI+PJVICwmvrVp2BsOA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\18032\\source\\PersonalRepos\\BlazorUnitsApp\\BlazingPizza.ComponentsLibrary\\BlazingPizza.ComponentsLibrary.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to read project information for 'BlazingPizza.ComponentsLibrary': Invalid framework identifier ''."
+    }
+  ]
+}

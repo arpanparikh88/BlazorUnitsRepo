@@ -1,0 +1,12 @@
+C:\Users\18032\source\PersonalRepos\BlazorUnitsApp\BlazorUnitsApp\Shared\bin\Debug\net6.0\BlazorUnitsApp.Shared.deps.json
+C:\Users\18032\source\PersonalRepos\BlazorUnitsApp\BlazorUnitsApp\Shared\bin\Debug\net6.0\BlazorUnitsApp.Shared.dll
+C:\Users\18032\source\PersonalRepos\BlazorUnitsApp\BlazorUnitsApp\Shared\bin\Debug\net6.0\BlazorUnitsApp.Shared.pdb
+C:\Users\18032\source\PersonalRepos\BlazorUnitsApp\BlazorUnitsApp\Shared\obj\Debug\net6.0\BlazorUnitsApp.Shared.csproj.AssemblyReference.cache
+C:\Users\18032\source\PersonalRepos\BlazorUnitsApp\BlazorUnitsApp\Shared\obj\Debug\net6.0\BlazorUnitsApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\18032\source\PersonalRepos\BlazorUnitsApp\BlazorUnitsApp\Shared\obj\Debug\net6.0\BlazorUnitsApp.Shared.AssemblyInfoInputs.cache
+C:\Users\18032\source\PersonalRepos\BlazorUnitsApp\BlazorUnitsApp\Shared\obj\Debug\net6.0\BlazorUnitsApp.Shared.AssemblyInfo.cs
+C:\Users\18032\source\PersonalRepos\BlazorUnitsApp\BlazorUnitsApp\Shared\obj\Debug\net6.0\BlazorUnitsApp.Shared.csproj.CoreCompileInputs.cache
+C:\Users\18032\source\PersonalRepos\BlazorUnitsApp\BlazorUnitsApp\Shared\obj\Debug\net6.0\BlazorUnitsApp.Shared.dll
+C:\Users\18032\source\PersonalRepos\BlazorUnitsApp\BlazorUnitsApp\Shared\obj\Debug\net6.0\refint\BlazorUnitsApp.Shared.dll
+C:\Users\18032\source\PersonalRepos\BlazorUnitsApp\BlazorUnitsApp\Shared\obj\Debug\net6.0\BlazorUnitsApp.Shared.pdb
+C:\Users\18032\source\PersonalRepos\BlazorUnitsApp\BlazorUnitsApp\Shared\obj\Debug\net6.0\ref\BlazorUnitsApp.Shared.dll

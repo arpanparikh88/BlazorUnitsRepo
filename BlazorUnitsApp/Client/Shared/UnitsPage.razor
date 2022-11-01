@@ -1,0 +1,29 @@
+﻿@page "/unit"
+@using BlazorUnitsApp.Client.Services.UnitService
+@inject IUnitService UnitService
+
+<ul>
+    @foreach (var unit in UnitService.Units)
+    {
+        <li>
+            <div>
+                <a href="/unit/@unit.Id">
+                    <h4>@unit.Name</h4>
+                </a>
+            </div>
+            <p>@unit.Ip_Address</p>
+            <p>@unit.Longitude</p>
+            <p>@unit.Latitude</p>
+        </li>
+    }
+</ul>
+
+
+@code {
+
+    protected override async Task OnInitializedAsync()
+    {
+        await UnitService.GetUnits();
+    }
+
+}
